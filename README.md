@@ -22,7 +22,7 @@ Connection from [Paper of Tactile sensing biohybrid soft E-skin](https://www.nat
 ## OUTPUT
 https://github.com/Hager-Fahem/Biohybrid-soft-sensor/assets/142262015/7534e8c0-8c5e-4b76-84cc-971bc5eb9996
 
-Research Project Based on BIOIMPEDANCE of living tissues like Aloe Vera bulb or flaxseed gel. Using Arduino Uno with an oscillator circuit to detect any touches by detecting change in frequency change in frequency.
+Research Project Based on BIOIMPEDANCE of living tissues like Aloe Vera bulb or flaxseed gel. Using Arduino Uno with an oscillator circuit to detect any touches by detecting change in frequency.
 
 ![pic4](https://github.com/Hager-Fahem/Biohybrid-soft-sensor/assets/142262015/a01aa296-0551-4179-8945-1d4095d29e55)
 
