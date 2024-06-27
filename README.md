@@ -15,7 +15,7 @@ Design and implement a biohybrid sensor Inspired from the paper ["Tactile sensin
 
 
 ## Hardware Connection
-Connection from [Paper of Tactile sensing biohybrid soft E-skin]([https://drive.google.com/file/d/1AlvuF_Hu1tpZX9DE0pFt5FqHwVqHxt08/view?usp=sharing](https://www.nature.com/articles/s41598-021-82549-x))
+Connection from [Paper of Tactile sensing biohybrid soft E-skin](https://www.nature.com/articles/s41598-021-82549-x)
 ![image](https://github.com/Hager-Fahem/Biohybrid-soft-sensor/assets/142262015/b3f3dd6d-bc4d-421f-a118-1c282eb7495e)
 
 
