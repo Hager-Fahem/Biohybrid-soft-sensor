@@ -8,7 +8,7 @@
 4. [OUTPUT](#output)
 
 ## Project Objective
-Design and implement a biohybrid sensor Inspired from the paper ["Tactile sensing biohybrid soft E-skin based on bioimpedance using aloe vera pulp tissues"]([https://drive.google.com/file/d/1AlvuF_Hu1tpZX9DE0pFt5FqHwVqHxt08/view?usp=sharing](https://www.nature.com/articles/s41598-021-82549-x))
+Design and implement a biohybrid sensor Inspired from the paper ["Tactile sensing biohybrid soft E-skin based on bioimpedance using aloe vera pulp tissues"](https://www.nature.com/articles/s41598-021-82549-x)
 
 ## Project Architecture
 ![pic5](https://github.com/Hager-Fahem/Biohybrid-soft-sensor/assets/142262015/d753abc9-f459-46de-8e20-9de621d1ab20)
